@@ -14,6 +14,7 @@ Bitcoin and Cryptocurrency Technologies by Princeton University (https://www.cou
 * Programming Assignment: Scrooge Coin
 
 <h4>2. How Bitcoin achieve Decentralization </h4>
+
 * Centralization vs. Decentralization
 * Distributed Consensus
 * Consensus without Identity: the Block Chain
@@ -68,7 +69,6 @@ Bitcoin and Cryptocurrency Technologies by Princeton University (https://www.cou
 * Regulation
 * New York's BitLicense Proposal
 * Programming Assignment: Block Chain
-
 
 <h4>8. Alternative Mining Puzzles </h4>
 
